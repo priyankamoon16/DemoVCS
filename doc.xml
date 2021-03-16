@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml>
+  <Document>
+    <name>Predictionkml20042019</name>
+    <description>U-Net generated kml file</description>
+    <open>1</open>
+    <Folder>
+      <name>Predictions</name>
+      <open>0</open>
+      <visibility>1</visibility>
+      <Folder>
+        <name>Group1</name>
+        <open>0</open>
+        <visibility>1</visibility>
+        <Folder>
+          <name>DL RSRP</name>
+          <open>0</open>
+          <visibility>1</visibility>
+          <NetworkLink>
+            <name>-85&lt;DL RSRP(dBm)&lt;=0</name>
+            <open>0</open>
+            <visibility>1</visibility>
+            <Link>
+              <href>https://github.com/priyankamoon16/DemoVCS/blob/main/097bef73-e08f-47b4-a070-96ddcf9270ca.kml</href>
+            </Link>
+          </NetworkLink>
+          <NetworkLink>
+            <name>-95&lt;DL RSRP(dBm)&lt;=-85</name>
+            <open>0</open>
+            <visibility>1</visibility>
+            <Link>
+              <href>https://github.com/priyankamoon16/DemoVCS/blob/main/522df6bb-1e9d-49f8-8e38-905b745655d6.kml</href>
+            </Link>
+          </NetworkLink>
+          <NetworkLink>
+            <name>-105&lt;DL RSRP(dBm)&lt;=-95</name>
+            <open>0</open>
+            <visibility>1</visibility>
+            <Link>
+              <href>https://github.com/priyankamoon16/DemoVCS/blob/main/9fcd9d03-f96d-403b-988c-830dadee475b.kml</href>
+            </Link>
+          </NetworkLink>
+          <NetworkLink>
+            <name>-140&lt;DL RSRP(dBm)&lt;=-105</name>
+            <open>0</open>
+            <visibility>1</visibility>
+            <Link>
+              <href>https://github.com/priyankamoon16/DemoVCS/blob/main/2ed17422-29a8-452e-9f95-d882706d6e1e.kml</href>
+            </Link>
+          </NetworkLink>
+        </Folder>
+      </Folder>
+      <Folder>
+        <name>Group2</name>
+        <open>0</open>
+        <visibility>1</visibility>
+      </Folder>
+    </Folder>
+    <LookAt>
+      <longitude>5.35430876340685</longitude>
+      <latitude>7.48988115064626</latitude>
+      <range>20000</range>
+      <tilt>10</tilt>
+      <heading>0</heading>
+    </LookAt>
+  </Document>
+</kml>
