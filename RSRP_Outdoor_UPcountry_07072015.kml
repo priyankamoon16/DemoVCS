@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>RSRP_Outdoor_UPcountry_07072015</name>
+	<open>1</open>
+	<description>Atoll Entities</description>
+	<LookAt>
+		<longitude>32.0917289979153</longitude>
+		<latitude>0.7659970830155</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>617652.343639913</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<NetworkLink>
+		<name>Sites</name>
+		<open>1</open>
+		<description>List of sites</description>
+		<Link>
+			<href>https://github.com/priyankamoon16/DemoVCS/blob/main/predictions.kml</href>
+		</Link>
+	</NetworkLink>
+	<NetworkLink>
+		<name>Coverage plots</name>
+		<description>List of coverage plots</description>
+		<Link>
+			<href>https://github.com/priyankamoon16/DemoVCS/blob/main/predictions.kml</href>
+		</Link>
+	</NetworkLink>
+</Document>
+</kml>
